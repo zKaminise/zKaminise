@@ -1,16 +1,25 @@
-### Hi there 👋
+<img align="right" height="590em"
+src="https://raw.githubusercontent.com/gist/zKaminise/4b47b665678bb6994925553bf92ddd88/raw/2bf2600b4c4e73403d2da426a441fd65b95ad0bf/githubcard2.svg"/>
 
-<!--
-**zKaminise/zKaminise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Gabriel Misao</h1>
 
-Here are some ideas to get you started:
+- 🔥 Cursando Analise e Desenvolvimento de Sistemas
+- ⚡ Estudo focado em programação
+- 🔭 Software Developer Junior Full Stack
+- 💬 **JavaScript, HTML, CSS, Phyton**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div style="display: inline_block"><br>&nbsp;&nbsp;
+  &nbsp;&nbsp;<img align="center" alt="Misao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
+  <img align="center" alt="Misao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="Misao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="Misao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+## ⚙️ &nbsp;Analises do GitHub
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=zKaminise&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKaminise&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
