@@ -20,6 +20,6 @@ src="https://raw.githubusercontent.com/gist/zKaminise/4b47b665678bb6994925553bf9
 ## ⚙️ &nbsp;Analises do GitHub
 
 <p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=zKaminise&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKaminise&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=zKaminise&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKaminise&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
