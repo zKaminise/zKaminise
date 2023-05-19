@@ -6,7 +6,7 @@ src="https://raw.githubusercontent.com/gist/zKaminise/4b47b665678bb6994925553bf9
 - 🔥 Cursando Analise e Desenvolvimento de Sistemas
 - ⚡ Estudo focado em programação
 - 🔭 Software Developer Junior Full Stack
-- 💬 **JavaScript, HTML, CSS, Phyton**
+- 💬 **JavaScript, HTML, CSS, Python**
 
 <br>
 
