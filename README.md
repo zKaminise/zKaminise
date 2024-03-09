@@ -4,9 +4,10 @@ src="https://raw.githubusercontent.com/gist/zKaminise/4b47b665678bb6994925553bf9
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Gabriel Misao</h1>
 
 - 🔥 Cursando Analise e Desenvolvimento de Sistemas
+- 🔥 Cursando Sistemas da Informação
 - ⚡ Estudo focado em programação
-- 🔭 Software Developer Junior Full Stack
-- 💬 **JavaScript, HTML, CSS, Python**
+- 🔭 Software Engineer
+- 💬 **Java, SpringBoot, Banco de Dados SQL e Oracle, JavaScript, HTML, CSS, Python**
 
 <br>
 
