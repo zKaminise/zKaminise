@@ -15,7 +15,7 @@ src="https://raw.githubusercontent.com/gist/zKaminise/4b47b665678bb6994925553bf9
   <img align="center" alt="Misao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   &nbsp;&nbsp;<img align="center" alt="Misao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
   <img align="center" alt="Misao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="Misao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="Misao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp;&nbsp;
 </div>
 
 ## ⚙️ &nbsp;Analises do GitHub
